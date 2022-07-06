@@ -83,7 +83,7 @@ export default function SingleDrink() {
     } = cocktail
     return (
       <section className='section drink-section'>
-        <Link to='/' className='btn btn-primary'>
+        <Link to='/' className='btn btnPrimary'>
           Home
         </Link>
         <h2 className='section-title'>{name}</h2>
