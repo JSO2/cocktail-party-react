@@ -161,7 +161,6 @@ img {
 .drink {
     background: transparent;
     margin-bottom: 2rem;
-    /* box-shadow: 2px 5px 3px 0px rgba(0, 0, 0, 0.5); */
     transition: all ease 0.3s linear;
     display: grid;
     grid-template-rows: auto 1.2fr;
